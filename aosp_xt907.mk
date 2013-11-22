@@ -15,4 +15,4 @@
 #
 $(call inherit-product, device/motorola/xt907/full_xt907.mk)
 
-PRODUCT_NAME := aosp_xt907
+PRODUCT_NAME := beergang_xt907
